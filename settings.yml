@@ -1,0 +1,71 @@
+# Labels: define labels for Issues and Pull Requests
+labels:
+  - name: "!bug"
+    color: D30000
+    description: "Something isn't working"
+  - name: "!dont merge"
+    color: "000000"
+    description: "Isn't ready or depends on something"
+  - name: "!start here"
+    color: 7057ff
+    description: "Good for newcomers"
+  - name: "!wontfix"
+    color: ffffff
+    description: "This will not be worked on"
+  - name: "?duplicate"
+    color: cfd3d7
+    description: "This issue or pull request already exists"
+  - name: "?help wanted"
+    color: 008672
+    description: "Extra attention is needed"
+  - name: "?invalid"
+    color: e4e669
+    description: "This doesn't seem right"
+  - name: "?question"
+    color: d876e3
+    description: "Further information is requested"
+  - name: "?to estimate"
+    color: db6dca
+    description: "Needs an estimate (E1, E2, ..., E13)"
+  - name: E1
+    color: 00ECC1
+    description: "Less than 1-day"
+  - name: E2
+    color: 00E8EC
+    description: "About 1-day"
+  - name: E3
+    color: 00C4EC
+    description: "About 2-days"
+  - name: E5
+    color: 008FEC
+    description: "Less than 1-week"
+  - name: E8
+    color: 0064EC
+    description: "About 1-week"
+  - name: E13
+    color: 0036C8
+    description: "About 2-weeks"
+  - name: P0
+    color: 00B431
+    description: "Low Priority (Whenever you can)"
+  - name: P1
+    color: FCF400
+    description: "Medium Priority (This Week)"
+  - name: P2
+    color: FCB300
+    description: "High Priority (Today or Tomorrow)"
+  - name: P3
+    color: FC0000
+    description: "Very High Priority (Right Now)"
+  - name: S0
+    color: FFE633
+    description: "Low Severity (One or a few users affected)"
+  - name: S1
+    color: FFB533
+    description: "Medium Severity (Many users affected)"
+  - name: S2
+    color: FF7733
+    description: "High Severity (Entire service affected)"
+  - name: S3
+    color: FD1010
+    description: "Very High Severity (Multiple services affected)"
