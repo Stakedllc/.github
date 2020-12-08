@@ -10,7 +10,7 @@ assignees: tuckerchapin
 _A clear and concise description of what the user's problem is._
 
 **Steps taken**
-_Describe what steps were taken in the [customer support guide](https://github.com/Stakedllc/staked-vue/wiki/Frontend-Customer-Support-Guide) and what the fallout of them was and what issues are still persisting._
+_Describe what steps were taken in the [customer support guide](https://github.com/Stakedllc/staked-vue/wiki/Customer-Support-Guide) and what the fallout of them was and what issues are still persisting._
 
 **Context**
 _Provide as much context on the user as possible_
