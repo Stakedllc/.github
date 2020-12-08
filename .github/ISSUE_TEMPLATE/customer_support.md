@@ -14,12 +14,13 @@ _Describe what steps were taken in the [customer support guide](https://github.c
 
 **Context**
 _Provide as much context on the user as possible_
-- Timeframe: [MM/DD]
-- Account type: [WEB3 / EMAIL+PASSWORD]
-- Email: [EMAIL]
-- ETH1 Address: [0x...]
-- User ID: [####]
-- Extra:
+- Timeframe: _MM/DD HH:MM_
+- Account type: _WEB3 / EMAIL+PASSWORD_
+- Email: _EMAIL_
+- ETH1 Address: _0x..._
+- User ID: _####_
+- Fullstory link: _url_
+- Extra: _?_
 
 **Additional comments**
 _Anything else to add?_
